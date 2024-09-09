@@ -1,0 +1,29 @@
+Complete the sentence:
+
+
+TypeScript allows developers to add 
+types
+ to JavaScript.
+
+Complete the sentence:
+
+
+JavaScript is a 
+loosely
+ typed language.
+
+Create a "firstName" variable, string type using Implicit type:
+
+
+let 
+firstName
+ = "Dylan";
+
+Create a "firstName" variable, string type using Explicit type:
+
+
+let 
+firtsName
+: 
+string
+ = "Dylan";
